@@ -1,3 +1,3 @@
 # pagina-web
-Puede ingresar [en formato html a Github](https://verinikita.github.io/protein-folder/)https://verinikita.github.io/protein-folder/
+Puede ingresar https://verinikita.github.io/Protein_fold/
 Ingresa haciendo clic en el enlace
